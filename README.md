@@ -2,13 +2,14 @@
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
-  <a href="https://scaffoldeth.io">Website</a>
+ 
 </h4>
- -DEPLOYMENT LINK:https://sepolia-explorer.metisdevops.link/address/0xb86d1D674c132591C15bbaA33f5307Af4cc10f84
+ 
+🧪 I deployed a counter contract on the Metis Testnet after successfully obtaining testnet tokens from the Metis faucet. The contract was initialized with the message: '👋 Initial greeting: Building My METIS APP ONCHAIN!!
+
+  -DEPLOYMENT LINK:https://sepolia-explorer.metisdevops.link/address/0xb86d1D674c132591C15bbaA33f5307Af4cc10f84
  -CONTRACT ID:0xb86d1D674c132591C15bbaA33f5307Af4cc10f84
  - DEPLOYER ADDRESS-0x0960F4967Ef59eFF9A62E551Ca727510f4A3bb6a
-🧪 I deployed a counter contract on the Metis Testnet after successfully obtaining testnet tokens from the Metis faucet. The contract was initialized with the message: '👋 Initial greeting: Building My METIS APP ONCHAIN!!
-  
 ⚙️
 
 - ✅ **Contract Hot Reload**: Your frontend auto-adapts to your smart contract as you edit it.
