@@ -13,7 +13,7 @@
 - 🪝 **[Custom hooks](https://docs.scaffoldeth.io/hooks/)**: Collection of React hooks wrapper around [wagmi](https://wagmi.sh/) to simplify interactions with smart contracts with typescript autocompletion.
 - 🧱 [**Components**](https://docs.scaffoldeth.io/components/): Collection of common web3 components to quickly build your frontend.
 
-![Debug Contracts tab](https://i.ibb.co/sRpMHpf/photo-5778463886851293906-y.jpg)
+![Debug Contracts tab]((https://i.ibb.co/sRpMHpf/photo-5778463886851293906-y.jpg))
 
 ## Requirements
 
